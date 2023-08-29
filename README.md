@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Josh-7
-- 👀 I’m interested in learning python for data science
-- 🌱 I’m currently learning introduction to python courses
-- 💞️ I’m looking to collaborate on (unsure)
-- 📫 How to reach me: lisdjosh@gmail.com
-
-<!---
-Josh-7/Josh-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Josh Huang and I am currently an undergraduate student pursuing a degree in Business Analytics at the University of Texas at Dallas. In addition to my degree, I have been increasingly passionate about finding ways to expand my skillset through online resources. As of now, I am in the process of enhancing my knowledge in the tools of Excel, SQL, and R. Beyond these technical skills, I want to emphasize my ability to translate my analysis into a comprehensible presentation for my audience. This portfolio will serve as a channel for me to upload the projects that I have been working on during this learning process. 
